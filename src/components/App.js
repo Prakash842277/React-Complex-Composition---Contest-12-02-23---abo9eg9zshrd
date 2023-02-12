@@ -29,7 +29,7 @@ const App = () => {
     <div id="main">
       <h1>Types of Food:</h1>
       { /* Change code below this line */ }
-        <Fruits/>
+        <Fruit/>
       { /* Change code above this line */ }
     </div>
   )
